@@ -1,0 +1,6 @@
+venv
+.env
+aula_email_django/__pycache__
+enviaemail/__pycache__
+enviaemail/migrations/__pycache__
+db.sqlite3
